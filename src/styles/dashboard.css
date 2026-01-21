@@ -1,0 +1,22 @@
+.dashboard {
+  padding: 20px;
+}
+
+.form input {
+  margin: 5px;
+  padding: 6px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+button {
+  margin: 3px;
+  padding: 6px 10px;
+}
+.logout {
+  background: red;
+  color: white;
+}
